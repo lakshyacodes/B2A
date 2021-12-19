@@ -5,7 +5,7 @@ What you want to do?
 '''
 print(msg)
 user_want = int(input(">> "))
-if(user_want==1):
+if(user_want==2):
 	message='Enter String!'
 	print(message)
 	test_str = input(">> ")
